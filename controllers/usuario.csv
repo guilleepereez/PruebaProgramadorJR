@@ -1,0 +1,4 @@
+id, nombre, apellido, edad, email, habilidadesDeUsuario
+1,Guillermo,Pérez,26,guilleepereez@gmail.com,MySQL
+2,nombre,apellido,edad,email,habilidadesDeUsuario
+3,Antonio,Fuentes,26,antonio@gmail.com, /Java/Angular/Linux Servidores

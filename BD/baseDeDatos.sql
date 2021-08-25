@@ -1,0 +1,12 @@
+CREATE DATABASE testPrueba;
+USE testPrueba;
+
+CREATE TABLE usuario (
+  id INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
+  nombre VARCHAR(45) NOT NULL,
+  apellido VARCHAR(45) NOT NULL,
+  edad INT NOT NULL,
+  email VARCHAR(45) NOT NULL,
+  habilidadesDeUsuario VARCHAR(45) NOT NULL
+);
+

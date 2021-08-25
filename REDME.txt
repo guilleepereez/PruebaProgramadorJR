@@ -1,0 +1,26 @@
+TEST PRACTICO PROGRAMADOR JR
+-----------------------------------------------
+Created for:
+
+GUILLERMO ANTONIO PÉREZ FUENTES
+-----------------------------------------------
+Indicaciones:
+
+4.	Crear el siguiente proyecto:
+Crea un proyecto con el framework que mejor te acomodes o en php puro
+Agregar bootstrap 4
+Una nueva ruta llamada somos-emkt
+Agregar un layout, en el header agregar menú y logo y en el footer agregar iconos de redes con link y logo 
+Agregar una nueva vista que llamara desde un controlador
+La vista debe contener:
+•	Un slider con imagen y título, y un grid de 3 columnas en cada columna debe ir img, una H3 y una P
+•	Un cover 100% que abrirá un modal
+•	un formulario con los siguientes campos:
+    o	nombre
+    o	apellido
+    o	edad
+    o	email
+    o	habilidades (dropdown: php, html, css, laravel, java, js, angular, node, Linux, servidores)
+•para el formulario crear una base de datos y guardar esos datos en una tabla el gestor puede ser el que considere conveniente
+•para la tabla debe crear las migraciones correspondientes.
+
